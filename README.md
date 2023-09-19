@@ -2,5 +2,4 @@
 
 ```
 bundle exec jekyll serve
-```
-# jekyll
+```# jekyll
